@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ps2models/Weapons_Common_Shared_All_C"
+	"$bumpmap" "models/ps2models/Weapons_Common_Shared_All_N"
+}
