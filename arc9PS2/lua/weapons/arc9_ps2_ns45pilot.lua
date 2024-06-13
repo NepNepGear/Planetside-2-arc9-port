@@ -181,10 +181,11 @@ SWEP.Attachments = {
     [1] = {
 		PrintName = "Scopes",
 		DefaultName = "Iron sights",
-		Category = {"ps2_pistol_scopes"}, -- single or {"list", "of", "values"}
+		Category = {"ps2_reflex_sight"}, -- single or {"list", "of", "values"}
 		Bone = "weapon",
-		Pos = Vector(0, -3, 3),
-		Ang = Angle(0, 90, 180),
+		Scale = 0.8,
+		Pos = Vector(0, -2.7, 4),
+		Ang = Angle(90, 90, 180),
 	},
 	[2] = {
 		PrintName = "Muzzle Device",

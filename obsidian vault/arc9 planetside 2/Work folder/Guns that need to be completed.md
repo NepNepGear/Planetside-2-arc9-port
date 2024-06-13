@@ -27,8 +27,8 @@ NS-30 Vandal
 NSX Tomoe
 
 **SNIPER RIFLES**
-NS-AM7 Archer (Scopeless, can't get sight to work)
-NS-AM8 Shortbow (Scopeless, can't get sight to work)
+~~==***NS-AM7 Archer (Scopeless, can't get sight to work)***==~~
+~~==***NS-AM8 Shortbow (Scopeless, can't get sight to work)~~***==
 NSX Daimyo
 
 **LMG**

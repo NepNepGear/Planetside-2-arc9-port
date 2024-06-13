@@ -14,12 +14,27 @@ ARC9.LoadAttachment(ATT, "ps2_magazine_pistol")
 
 ATT = {}
 
+ATT.PrintName = [[Short Mags]]
+ATT.CompactName = [[Short Mags]]
+ATT.Description = [[Uses the AM8 Shortbow Magazines to be more lighter and flexable at the cost of 1 less bullet.]]
+ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
+
+ATT.Category = {"ps2_archer_mag"}
+
+ATT.ClipSizeAdd = -1
+ATT.DeployTimeMult = 0.85
+ATT.SpeedMult = 1.1
+
+ARC9.LoadAttachment(ATT, "ps2_am8_mag")
+
+ATT = {}
+
 ATT.PrintName = [[Ammunition Belt]]
 ATT.CompactName = [[Ammo+]]
 ATT.Description = [[Allows you to carry 2 additional magazines for your weapon and increases reload speed by 15%.]]
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
-ATT.Category = {"ps2_pistol_magazine"}
+ATT.Category = {"ps2_perk_magazine"}
 
 ATT.SupplyLimitAdd = 2
 ATT.ReloadTimeMult = 0.85
@@ -92,5 +107,25 @@ ATT.LegDamage = 1.2
 ATT.HeadshotDamage = 0.5
 
 ARC9.LoadAttachment(ATT, "ps2_KCAP_ammo")
+
+ATT = {}
+
+ATT.PrintName = [[Anti Personal Ammunition]]
+ATT.CompactName = [[No Explosive]]
+ATT.Description = [[Removes the explosive payload on anti material rifles for a more accurate and deadly bullet.]]
+ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
+
+ATT.CustomCons = {
+    ["No longer can do explosive damage"] = "",
+	["No longer able to damage vehicles"] = "",
+}
+
+ATT.Category = {"ps2_antiM_ammo"}
+
+ATT.SpreadMultSighted = 0.5
+ATT.DamageMaxMult = 1.5
+ATT.DamageMinMult = 1.5
+
+ARC9.LoadAttachment(ATT, "ps2_antipmc_ammo")
 
 ATT = {}

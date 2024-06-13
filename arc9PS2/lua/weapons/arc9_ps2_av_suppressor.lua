@@ -2,7 +2,7 @@ AddCSLuaFile()
 SWEP.Base = "arc9_base"
 SWEP.Spawnable = true
 SWEP.Category = "ARC9 - PlanetSide 2"
-SWEP.SubCategory = "Pistol"
+SWEP.SubCategory = "SubMachine Gun"
 SWEP.AdminOnly = false
 
 -------------------------- Gun Itself
@@ -152,10 +152,11 @@ SWEP.Attachments = {
     [1] = {
 		PrintName = "Scopes",
 		DefaultName = "Iron sights",
-		Category = {"ps2_scopes"}, -- single or {"list", "of", "values"}
+		Category = {"ps2_reflex_sight","ps2_fullsize_scopes"}, -- single or {"list", "of", "values"}
 		Bone = "weapon",
-		Pos = Vector(0, -4, 6),
-		Ang = Angle(0, 90, 180),
+		Pos = Vector(0, -3.8, 7.6),
+		Ang = Angle(90, 90, 180),
+		Scale = 0.7,
 	},
 	[2] = {
 		PrintName = "Tactical Device",
