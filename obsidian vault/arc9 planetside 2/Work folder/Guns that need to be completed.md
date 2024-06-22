@@ -14,12 +14,12 @@ NSX Tengu
 NS Baron G5
 
 **CARBINE**
-NS-11C
+**==~~NS-11C~~==**
 NSX Tanto
 
 **ASSAULT RIFLE**
-NS-11A
-NS-11P
+==***NS-11A***==
+==***NS-11P***==
 NSX Yumi
 
 **SCOUT RIFLES**
@@ -32,7 +32,7 @@ NSX Tomoe
 NSX Daimyo
 
 **LMG**
-NS-15M2
+***==NS-15M2==***
 NSX Naginata
 
 **ROCKET LAUNCHERS**
