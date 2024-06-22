@@ -86,6 +86,7 @@ ATT.ModelOffset = Vector(0, 0, 0.0)
 ATT.ModelAngleOffset = Angle(0, 0, 0)
 
 ATT.LHIK = true
+ATT.LHIK_Priority = 1
 
 ARC9.LoadAttachment(ATT, "ps2_ns_foregrip")
 

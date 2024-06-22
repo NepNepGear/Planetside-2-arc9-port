@@ -129,3 +129,29 @@ ATT.DamageMinMult = 1.5
 ARC9.LoadAttachment(ATT, "ps2_antipmc_ammo")
 
 ATT = {}
+
+ATT.PrintName = [[NS-11C Curved Magazine]]
+ATT.CompactName = [[Carbine Mag]]
+ATT.Description = [[]]
+ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
+
+ATT.Category = {"ps2_ns11_magazine"}
+
+ATT.ClipSize = 35
+
+ARC9.LoadAttachment(ATT, "ps2_NS11_Carbine_Magazine")
+
+ATT = {}
+
+ATT.PrintName = [[NS-15M2 Long Curved Magazine]]
+ATT.CompactName = [[LMG Mag]]
+ATT.Description = [[]]
+ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
+
+ATT.Category = {"ps2_ns11_magazine"}
+
+ATT.ClipSize = 55
+
+ARC9.LoadAttachment(ATT, "ps2_NS11_LMG_Box")
+
+ATT = {}

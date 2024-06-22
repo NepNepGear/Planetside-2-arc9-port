@@ -22,6 +22,7 @@ ATT.Sights = {
 
 ATT.ToggleOnF = true -- This attachment is toggleable with the flashlight key.
 
+
 ATT.ToggleStats = {
     {
         PrintName = "4x",
