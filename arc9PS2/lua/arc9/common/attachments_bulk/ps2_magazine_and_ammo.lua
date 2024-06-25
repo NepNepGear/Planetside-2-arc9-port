@@ -2,15 +2,30 @@ local ATT = {}
 
 ATT.PrintName = [[Extended Magazine]]
 ATT.CompactName = [[Extended Magazine]]
-ATT.Description = [[Increases the amount of ammunition in each magazine by 3 rounds rounds, and the weapon takes 15% longer to equip and unequip.]]
+ATT.Description = [[Increases the amount of ammunition in each magazine by 3 rounds, and the weapon takes 15% longer to equip and unequip.]]
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_pistol_magazine"}
+ATT.Icon = Material("entities/attachs/ps2_magazine_pistol.png", "mips smooth")
 
 ATT.ClipSizeAdd = 3
 ATT.DeployTimeMult = 1.15
 
 ARC9.LoadAttachment(ATT, "ps2_magazine_pistol")
+
+ATT = {}
+
+ATT.PrintName = [[Extended Magazine]]
+ATT.CompactName = [[Extended Magazine]]
+ATT.Description = [[Increases the amount of ammunition in each magazine by 2 rounds, and the weapon takes 15% longer to equip and unequip.]]
+ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
+
+ATT.Category = {"ps2_sg_magazine"}
+
+ATT.ClipSizeAdd = 2
+ATT.DeployTimeMult = 1.15
+
+ARC9.LoadAttachment(ATT, "ps2_magazine_sg")
 
 ATT = {}
 
