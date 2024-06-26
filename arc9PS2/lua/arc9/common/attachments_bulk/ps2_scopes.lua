@@ -8,7 +8,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_fullsize_scopes"}
 ATT.Folder = "Assault Scopes"
 ATT.Icon = Material("entities/attachs/ps2_quadra_4x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope4x.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope4x.mdl"
 
 ATT.Sights = {
     {
@@ -48,7 +48,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_archer"}
 ATT.Icon = Material("entities/attachs/ps2_tetra_4x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope4x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope4x_1.mdl"
 
 ATT.Sights = {
     {
@@ -89,7 +89,7 @@ ATT.Icon = Material("entities/attachs/ps2_tetra_4x.png", "mips smooth")
 ATT.Category = {"ps2_fullsize_scopes"}
 ATT.Folder = "Assault Scopes"
 
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope4x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope4x_1.mdl"
 
 ATT.Sights = {
     {
@@ -129,7 +129,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_sniper_scopes"}
 ATT.Folder = "Sniper Scopes"
 ATT.Icon = Material("entities/attachs/ps2_Hepta_7x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope7x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope7x_1.mdl"
 
 ATT.Sights = {
     {
@@ -169,7 +169,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_sniper_scopes"}
 ATT.Folder = "Sniper Scopes"
 ATT.Icon = Material("entities/attachs/ps2_Deca_10x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope10x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope10x_1.mdl"
 
 ATT.Sights = {
     {
@@ -209,7 +209,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_sniper_scopes"}
 ATT.Folder = "Sniper Scopes"
 ATT.Icon = Material("entities/attachs/ps2_dodec_12x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope12x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope12x_1.mdl"
 
 ATT.Sights = {
     {
@@ -247,7 +247,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_sniper_scopes"}
 ATT.Folder = "Sniper Scopes"
 ATT.Icon = Material("entities/attachs/ps2_Octal_8x.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope8x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope8x_1.mdl"
 
 ATT.Sights = {
     {
@@ -286,7 +286,7 @@ ATT.Icon = Material("entities/attachs/ps2_nico_1x.png", "mips smooth")
 ATT.Category = {"ps2_reflex_sight"}
 ATT.Folder = "Reflex Sights"
 
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope1x_1.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope1x_1.mdl"
 
 ATT.Sights = {
     {
@@ -350,7 +350,7 @@ ATT.Folder = "Reflex Sights"
 
 
 
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_NS_Scope1x_2.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_NS_Scope1x_2.mdl"
 
 ATT.Sights = {
     {

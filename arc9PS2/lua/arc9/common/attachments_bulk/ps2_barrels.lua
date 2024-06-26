@@ -36,7 +36,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 ATT.Category = {"ps2_ns11_barrels"}
 ATT.ModelOffset = Vector(-10.2, 0, -4.43)
 
-ATT.Model = "models/ps2models/attachments/ps2_ns_11c_barrel.mdl"
+ATT.Model = "models/ps2models/attachments/v_ns_11c_barrel.mdl"
 
 ATT.LHIK = true
 ATT.LHIK_Priority = 0
@@ -92,7 +92,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_ns11_barrels"}
 
-ATT.Model = "models/ps2models/attachments/ps2_ns_15m2_barrel.mdl"
+ATT.Model = "models/ps2models/attachments/v_ns_15m2_barrel.mdl"
 ATT.ModelOffset = Vector(-10.2, 0, -4.43)
 
 ATT.LHIK = true

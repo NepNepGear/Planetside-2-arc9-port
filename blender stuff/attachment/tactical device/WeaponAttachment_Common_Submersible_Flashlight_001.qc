@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\WeaponAttachment_Common_Submersible_Flashlight_001.mdl"
+$modelname "ps2models\v_WeaponAttachment_Common_Submersible_Flashlight_001.mdl"
 
 $bodygroup "flashlight"
 {

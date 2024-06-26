@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\WeaponAttachment_NS_Scope10x_1.mdl"
+$modelname "ps2models\v_WeaponAttachment_NS_Scope10x_1.mdl"
 
 $bodygroup "scope"
 {

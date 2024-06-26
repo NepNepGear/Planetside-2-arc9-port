@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\ps2_ns_baron_g5.mdl"
+$modelname "ps2models\v_ns_baron_g5.mdl"
 
 $bodygroup "body"
 {

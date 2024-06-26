@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\ps2_tr_laser_dot_2_bottom.mdl"
+$modelname "ps2models\v_tr_laser_dot.mdl"
 
 $bodygroup "flashlight"
 {

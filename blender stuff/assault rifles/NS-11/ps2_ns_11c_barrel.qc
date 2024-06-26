@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\ps2_ns_11c_barrel.mdl"
+$modelname "ps2models\v_ns_11c_barrel.mdl"
 
 $bodygroup "flashlight"
 {

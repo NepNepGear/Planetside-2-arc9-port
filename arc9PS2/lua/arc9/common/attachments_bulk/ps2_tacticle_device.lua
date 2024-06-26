@@ -7,7 +7,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_ns_tactical"}
 
-ATT.Model = "models/ps2models/attachments/ps2_tr_laser_dot_2_bottom.mdl"
+ATT.Model = "models/ps2models/attachments/v_tr_laser_dot.mdl"
 ATT.Icon = Material("entities/attachs/ps2_laser_sight.png", "mips smooth")
 ATT.ModelOffset = Vector(0, 0, 2.7)
 ATT.ModelAngleOffset = Angle(0, 0, 0)
@@ -43,7 +43,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_ns_tactical"}
 ATT.Icon = Material("entities/attachs/ps2_flash_light.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/WeaponAttachment_Common_Submersible_Flashlight_001.mdl"
+ATT.Model = "models/ps2models/attachments/v_WeaponAttachment_Common_Submersible_Flashlight_001.mdl"
 
 ATT.ToggleOnF = true -- This attachment is toggleable with the flashlight key.
 ATT.ToggleStats = {
@@ -81,7 +81,7 @@ ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_ns_tactical_grip"}
 ATT.Icon = Material("entities/attachs/ps2_ns_foregrip.png", "mips smooth")
-ATT.Model = "models/ps2models/attachments/ps2_nc_foregrip_a.mdl"
+ATT.Model = "models/ps2models/attachments/v_nc_foregrip_a.mdl"
 ATT.ModelOffset = Vector(0, 0, 0.0)
 ATT.ModelAngleOffset = Angle(0, 0, 0)
 

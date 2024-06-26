@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "ps2models\ps2_nc_foregrip_a.mdl"
+$modelname "ps2models\v_nc_foregrip_a.mdl"
 
 $bodygroup "foregrips"
 {
