@@ -62,7 +62,7 @@ ATT.PrintName = [[Soft Point Ammunition]]
 ATT.CompactName = [[Soft Point]]
 ATT.Description = [[Soft Point Ammunition increases the weapon's maximum damage range by 5 meters, but reduces its projectile velocity by 10%.]]
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
-
+ATT.Icon = Material("entities/attachs/ps2_soft_point.png", "mips smooth")
 ATT.Category = {"ps2_ammo", "ps2_pistol_ammo"}
 
 ATT.RangeMinAdd = 200
@@ -76,7 +76,7 @@ ATT.PrintName = [[High Velocity Ammunition]]
 ATT.CompactName = [[High Velocity]]
 ATT.Description = [[High Velocity Ammunition increases the weapon's projectile velocity by 10% and minimum damage range by 20 meters, but reduces the weapon's maximum damage range by 2 meters.]]
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
-
+ATT.Icon = Material("entities/attachs/ps2_high_velocity.png", "mips smooth")
 ATT.Category = {"ps2_ammo", "ps2_pistol_ammo"}
 
 ATT.RangeMinAdd = -70
@@ -93,7 +93,7 @@ ATT.Description = [[Increases projectile velocity by 25%, while reducing magazin
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_pistol_ammo"}
-
+ATT.Icon = Material("entities/attachs/ps2_high_velocity.png", "mips smooth")
 ATT.ClipSizeAdd = -4
 ATT.PhysBulletMuzzleVelocityMult = 1.25
 
@@ -107,7 +107,7 @@ ATT.Description = [[KCAP ammunition removes the legshot damage penalty, and incr
 ATT.MenuCategory = "ARC-9 Planetside 2 - Attachments"
 
 ATT.Category = {"ps2_pistol_ammo"}
-
+ATT.Icon = Material("entities/attachs/ps2_KCAP_ammo.png", "mips smooth")
 ATT.BodyDamageMults = {
     [HITGROUP_HEAD] = 2,
     [HITGROUP_CHEST] = 1,
